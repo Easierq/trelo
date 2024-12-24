@@ -93,6 +93,7 @@
     "zustand": "^4.5.0"
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.201",
     "@types/uuid": "^9.0.8",
     "drizzle-kit": "^0.21.2",
     "pg": "^8.11.5",
